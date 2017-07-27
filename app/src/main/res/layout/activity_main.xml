@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:paddingLeft="5dp"
+    android:layout_marginBottom="5dp"
+    android:background="#FAFAFA">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/searchBar"
+        android:layout_height="wrap_content">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/cityName"
+            android:layout_height="wrap_content"
+            android:layout_width="258dp"
+            android:hint="Location"
+            android:paddingStart="5dp"
+            android:layout_weight="26.34"
+            android:textColor="#FAFAFA"
+            android:textColorHint="#FAFAFA">
+        </com.rengwuxian.materialedittext.MaterialEditText >
+
+        <info.hoang8f.widget.FButton
+            android:text="Search"
+            android:layout_margin="5dp"
+            android:id="@+id/Button01"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:textColor="#FAFAFA"
+            fbutton:buttonColor="#2E7D32"
+            fbutton:shadowColor="#1B5E20"
+            fbutton:shadowEnabled="true"
+            fbutton:shadowHeight="2dp"
+            fbutton:cornerRadius="5dp"
+            android:onClick="getWeather">
+        </info.hoang8f.widget.FButton>
+
+    </LinearLayout>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/weatherCard"
+        android:layout_height="170dp"
+        android:layout_weight="26.34"
+        android:layout_marginTop="11dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@+id/searchBar"
+        android:layout_alignParentStart="true">
+
+
+        <RelativeLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent">
+
+            <ImageView
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/cloudy1"
+                android:id="@+id/iconView"
+                android:layout_row="0"
+                android:layout_column="0"
+                android:padding="10dp"
+                android:layout_width="120dp" />
+
+            <TextView
+                android:text="Bangalore"
+                android:layout_row="0"
+                android:layout_column="0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/cityTitle"
+                android:textSize="30sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_above="@+id/descriptionView"
+                android:layout_toEndOf="@+id/iconView"
+                android:layout_marginStart="11dp"
+                android:layout_marginBottom="14dp" />
+
+            <TextView
+                android:text="Partly Cloudy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/descriptionView"
+                android:textSize="17sp"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:text="80°"
+                android:layout_row="1"
+                android:layout_column="0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/temperatureView"
+                android:textSize="30sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textAlignment="textStart"
+                android:layout_marginEnd="12dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="8dp" />
+
+        </RelativeLayout>
+
+
+
+    </android.support.v7.widget.CardView>
+
+    <TextView
+        android:text="made by Aneesh Melkot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/info"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="normal|bold" />
+
+
+</RelativeLayout>
+

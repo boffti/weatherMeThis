@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rengwuxian.materialedittext-library-2.1.4_c7987389f47f2c7404089c13c32c215581d7855e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f046c722499e42959f1920659f659959a3a4aff">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf5372831cc5e1fa2dd88b75184a8a830779a721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bd7c61b588e8e14954ba7cede73d44556f9d2f1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ba49c937f3affc3204d055c1b33fc00cafc5c797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2c4c2ab5e5da8e5e6149d06c193fbdca5e79c6a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_32b6a77ef7be7d3494120bc8aa43678860651328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b2fa2afd9f81883394cdf9da4f527d42cbea8ee6">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32a8b4e43eef2055994b6bc5b57bafbdcafc6f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_182d5fefab73fedb688556401b143c5106df5dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_81f8f77ab65de0401b3765ee4114c2c8edc2f704\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.github.florent37\materialtextfield\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1178ff79ecace62352b61e7e116112d90116cab3">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.florent37-materialtextfield-1.0.5_4e6d647fd0953db662efbb47cad8794b76891fa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0de1a33f824b0365b256a2718371a3b49b9e0d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_82992094513f783e538a5562113fc0018ad2ffd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2f3801463697e02916b7e362436f6d42137cbf44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_b717b1c468d9832a35509bfaa5a2373c890e1d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_65e8a2204a89f27add5fbd495603348366380e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-core\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8190861e323934dad89d5e6b830ea66878c11970">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.gabrielemariotti.cards-cardslib-core-2.1.0_dab6b37fe78f0597d4c2aa6bee78b9a6a53bfa74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_38f66f517a8fe581ae3084e5c883c188be7f6218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5dd1dba49e3ba2df0d68266f56eb653c66564e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\info.hoang8f\fbutton\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\info.hoang8f-fbutton-1.0.5_451ae86a53bf77f021f6449d0013df439fccd80d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_59741c0fba300fbc93bd12af77fcb95375b5041a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_2765aea04397f9476187c7350bc7246889699bfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_7d7dc9848398d8f0944dab9e3b7fc03d3cb68847\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\melkoa\AndroidStudioProjects\WeatherMeThis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_abb77369bd2cf29634f8c3d5510c0237177d7caa\classes.dex" />
+    </item>
+
+</items>
